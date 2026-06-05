@@ -15,6 +15,7 @@ using Python. Built as part of my preparation for MQF at SMU Singapore.
   -0.09 same-day correlation, explained by timezone difference
 - Found STI outperformed SPY in 2025: 29% vs 11% return, 
   Sharpe 1.96 vs 0.63
+- ![SPY RIsk Dashboard](SPY_risk_dashboard.png)
 
 ## Tools
 Python, Jupyter, yfinance, pandas, numpy, matplotlib
