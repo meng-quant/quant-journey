@@ -16,6 +16,10 @@ using Python. Built as part of my preparation for MQF at SMU Singapore.
 - Found STI outperformed SPY in 2025: 29% vs 11% return, 
   Sharpe 1.96 vs 0.63
 - ![SPY RIsk Dashboard](SPY_risk_dashboard.png)
+- Priced a European call option using Monte Carlo simulation 
+  (risk-neutral pricing) - matched Black-Scholes within $0.95
+- Built call option payoff diagram showing breakeven at $758.78,
+  max loss $58.78, unlimited upside
 
 ## Tools
 Python, Jupyter, yfinance, pandas, numpy, matplotlib
@@ -26,4 +30,5 @@ exposure to US-China tariff war. SPY volatility of 19.45% vs STI 13.63%
 explains the Sharpe ratio gap despite STI's higher absolute return.
 
 ## Status
-In progress — building toward a full risk dashboard and options pricer.
+Week 1 complete: SPY/STI risk analysis, VaR, CVaR, rolling volatility
+Week 2 in progress: Monte Carlo simulation, options pricing
