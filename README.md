@@ -35,6 +35,6 @@ Python, Jupyter, yfinance, pandas, numpy, matplotlib, scipy
 - Risk-neutral Monte Carlo and Black-Scholes converge to same option price from completely      different mathematical approaches
 
 ## Status
-Week 1 complete: Market risk analysis
-Week 2 complete: Options pricing and Greeks
-Week 3 in progress: Backtesting
+- Week 1 complete: Market risk analysis
+- Week 2 complete: Options pricing and Greeks
+- Week 3 in progress: Backtesting
