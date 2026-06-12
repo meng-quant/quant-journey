@@ -23,6 +23,8 @@ Hands-on quantitative finance project built in Python as preparation for MQF at 
 - Calculated and plotted Delta and Gamma across strike prices
 - Showed Gamma peaks at-the-money - explaining why ATM options are most actively traded and     most expensive to hedge
 
+![delta_gamma_comparison](delta_gamma_comparison.png)
+
 ## Tools
 Python, Jupyter, yfinance, pandas, numpy, matplotlib, scipy
 
